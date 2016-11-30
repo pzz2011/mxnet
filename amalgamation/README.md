@@ -18,6 +18,7 @@ Dependency
 ----------
 The only dependency is a BLAS library.
 
+
 Acknowledgement
 ---------------
 This module is created by [Jack Deng](https://github.com/jdeng).
